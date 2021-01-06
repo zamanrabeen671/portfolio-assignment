@@ -30,6 +30,7 @@ nav ul  li{
 nav ul li a{
     font-size: 14px;
     font-weight: bold;
+    color: black;
 }
 .header-area{
     height: 500px;
