@@ -50,6 +50,7 @@ nav ul li a{
     color:rgba(25, 27, 26, 0.788);
     font-size: 50px;
     padding-bottom: 20px;
+    
 }
 .highlighter{
     color: tomato;
@@ -169,14 +170,14 @@ nav ul li a{
     width: 80%;
     display: flex;
 }
-.w-content a, h1{
+.w-content a, .w-header{
     margin-top: 85px;
     margin-left: 90px;
 }
 .w-content a{
     margin-left: 260px;
 }
-.w-content h1{
+.w-content .w-header{
     color: #ffffff;
     font-size: 40px;
     font-weight: 700;
